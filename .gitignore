@@ -2,6 +2,8 @@
 
 gen/
 bin/
+assets/
+obj/
 
 # Java
 *.class
