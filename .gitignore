@@ -1,3 +1,11 @@
+# Android
+
+gen/
+bin/
+
+# Java
+*.class
+
 # Compiled Object files
 *.slo
 *.lo
